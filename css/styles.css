@@ -1,0 +1,22 @@
+body {
+  background-color: #f8e8a6;
+}
+
+h1 {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+a {
+  padding-left: 20px;
+  color: green;
+}
+
+img {
+  width: 70%;
+  display: block;
+  margin: 0 auto;
+}
